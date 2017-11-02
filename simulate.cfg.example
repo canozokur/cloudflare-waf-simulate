@@ -1,0 +1,7 @@
+[simulate]
+# your zone id
+zone_id = abcde12345
+# your waf id which has the rules to manipulate
+waf_id = abcde12345
+# which mode to set? script doesn't check if mode is valid
+mode = simulate
